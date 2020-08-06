@@ -13,5 +13,12 @@
 
 [<img align="left" alt="bhuvanharlapur | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xing.svg" />][Xing]
 
+
+### Skills
+
+[<img align="left" alt="HTML5" width="26px" src="python_logo.png" />]
+
+
+
 [linkedin]: https://www.linkedin.com/in/bhuvan-harlapur-70790369/
 [Xing]: https://www.xing.com/profile/Bhuvan_Harlapur/cv
