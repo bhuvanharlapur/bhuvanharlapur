@@ -7,3 +7,15 @@
 - 🥅 2020 Goals: Acquire more skills on ADAS and learn more about Autonomous Mobile Robotics 
 - ⚡ Fun fact: I love to Travel,Read and Learn new things
  
+### Connect with me:
+
+[<img align="left" alt="bhuvanharlapur | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
+
+
+<img align="left" alt="bhuvanharlapur's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bhuvanharlapur&show_icons=true&hide_border=true" />
+
+
+[linkedin]: https://www.linkedin.com/in/bhuvan-harlapur-70790369/
