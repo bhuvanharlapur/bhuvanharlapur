@@ -15,9 +15,6 @@
 
 <br />
 
-### Skills
-
-[<img align="left" alt="HTML5" width="26px" src="python_logo.png" />]
 
 
 
